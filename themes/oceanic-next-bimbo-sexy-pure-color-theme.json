@@ -1,5 +1,5 @@
 {
-  "name": "Oceanic Next Bimbo Pure",
+  "name": "Oceanic Next Bimbo Sexy Pure",
   "type": "dark",
   "colors": {
     "activityBar.background": "#000",
@@ -219,7 +219,7 @@
     },
     {
       "name": "Class, Support",
-      "scope": "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+      "scope": "entity.name.class, entity.name.type.class, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
         "foreground": "#FAC863"
       }
@@ -366,6 +366,20 @@
       "scope": "text.html.basic entity.other.attribute-name.html",
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Type",
+      "scope": "storage.type.primitive, support.type, entity.name.type, keyword.type, keyword.other.unit",
+      "settings": {
+        "foreground": "#B5F3FF"
+      }
+    },
+    {
+      "name": "C# return type",
+      "scope": "source.cs meta.method.return-type",
+      "settings": {
+        "foreground": "#9aedfe"
       }
     }
   ]

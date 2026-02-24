@@ -1,9 +1,9 @@
 {
-  "name": "oceanic-next-bimbo",
-  "displayName": "Oceanic Next Bimbo",
-  "description": "Minimalistic and modern looking fork of fantastic Oceanic theme.",
-  "version": "3.0.0",
-  "publisher": "ergenekonyigit",
+  "name": "oceanic-next-bimbo-sexy",
+  "displayName": "Oceanic Next Bimbo Sexy Sexy",
+  "description": "MMinimalistic and modern looking fork of Oceanic Next Bimbo Theme which is a minimalistic and modern looking fork of fantastic Oceanic theme.",
+  "version": "1.0.0",
+  "publisher": "lazy-doug",
   "engines": {
     "vscode": "^1.19.0"
   },
@@ -14,23 +14,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Oceanic Next Bimbo",
+        "label": "Oceanic Next Bimbo Sexy",
         "uiTheme": "vs-dark",
-        "path": "./themes/oceanic-next-bimbo-color-theme.json"
+        "path": "./themes/oceanic-next-bimbo-sexy-color-theme.json"
       },
       {
-        "label": "Oceanic Next Bimbo Dark",
+        "label": "Oceanic Next Bimbo Sexy Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/oceanic-next-bimbo-dark-color-theme.json"
+        "path": "./themes/oceanic-next-bimbo-sexy-dark-color-theme.json"
       },
       {
-        "label": "Oceanic Next Bimbo Pure",
+        "label": "Oceanic Next Bimbo Sexy Pure",
         "uiTheme": "vs-dark",
-        "path": "./themes/oceanic-next-bimbo-pure-color-theme.json"
+        "path": "./themes/oceanic-next-bimbo-sexy-pure-color-theme.json"
       }
     ]
   },
   "keywords": [
+    "sexy",
     "bimbo",
     "dark",
     "oceanic",
@@ -39,13 +40,13 @@
   ],
   "license": "MIT",
   "maintainers": [
-    "Ergenekon Yigit <yigitergenekon@gmail.com>"
+    "Lazy Doug <layzy.doug@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ergenekonyigit/vscode-oceanic-next-bimbo-theme.git"
+    "url": "https://github.com/lazy-doug/vscode-oceanic-next-bimbo-sexy-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/ergenekonyigit/vscode-oceanic-next-bimbo-theme/issues"
+    "url": "https://github.com/lazy-doug/vscode-oceanic-next-bimbo-sexy-theme/issues"
   }
 }
